@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * ize of various types on the computer
- * Return: 0 (success)
+ *main - size of various types on the computer
+ * Return 0 (success)
  */
 int main(void)
 {
